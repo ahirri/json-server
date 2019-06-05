@@ -10,7 +10,12 @@
 			"phoneNumber": "01 41 99 91 77"
 		},
 		"cart": [
-		
+			{
+				"label": "Café Espresso 100% Arabica 3° offert",
+				"count": 1,
+				"singlePrice": 5.5
+				"totalPrice": 5.5
+			}
 		]
 	}
 }
