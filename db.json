@@ -3,7 +3,11 @@
 		"id": 6456746845,
 		"date": "2019-06-04T14:11:23",
 		"store": {
-			"name": "Carrefour Courbevoie"
+			"name": "Carrefour Courbevoie",
+			"address1":"1 Rue de Colombes",
+			"city": "Courbevoie",
+			"zipCode": "92400",
+			"phoneNumber": "01 41 99 91 77"
 		},
 		"cart": [
 		
