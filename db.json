@@ -11,7 +11,8 @@
 		},
 		"cart": [
 			{
-				"label": "Café Espresso 100% Arabica 3° offert"
+				"label": "Café Espresso 100% Arabica 3° offert",
+				"count": 3
 			}
 		]
 	}
