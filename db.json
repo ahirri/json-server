@@ -15,6 +15,21 @@
 				"count": 1,
 				"singlePrice": 5.5,
 				"totalPrice": 5.5
+			}, {
+				"label": "Lot de 2 pots de confiture (TG)",
+				"count": 1,
+				"singlePrice": 4.3,
+				"totalPrice": 4.3
+			}, {
+				"label": "Yaourt Danone Nature x12",
+				"count": 1,
+				"singlePrice": 2.69,
+				"totalPrice": 2.69
+			}, {
+				"label": "Lit demi écrémé 1L",
+				"count": 2,
+				"singlePrice": 1.7,
+				"totalPrice": 3.4
 			}
 		]
 	}
