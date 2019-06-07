@@ -31,6 +31,10 @@
 				"singlePrice": 1.7,
 				"totalPrice": 3.4
 			}
-		]
+		],
+		"cartPrice": {
+			"totalPrice": 15.89,
+			"tax": 0.87
+		}
 	}
 }
